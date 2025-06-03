@@ -6,7 +6,7 @@ let resultado = idade;
 
 // Primeiro nível: verifica idosos
 if (idade &gt;= 60) {
-const nome = &quot;Fernanda&quot;;
+const nome = &quot;Geovana&quot;;
 categoria = &quot;idosa&quot;;
 // Segundo nível: verifica adultos
 } else {
